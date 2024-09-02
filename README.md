@@ -9,6 +9,6 @@ ENV UUID=''
 ENV PORT=
 `````
 `````
-UUID不设置默认：7090ff5d-f321-4248-a7c3-d8837f124999
+UUID不设置默认：feefeb96-bfcf-4a9b-aac0-6aac771c1b98
 PORT不设置默认：7860
 `````
